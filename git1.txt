@@ -1,2 +1,6 @@
 # addtion 
 a=1+2
+
+# sub
+a=1-2
+
